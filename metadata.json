@@ -1,0 +1,5 @@
+{
+  "name": "Abstract Visualizer",
+  "description": "An interactive WebGL visualizer that allows users to create and customize abstract generative art with controls for color, motion, distortion, grain, and chromatic aberration, and export high-resolution PNGs.",
+  "requestFramePermissions": []
+}
